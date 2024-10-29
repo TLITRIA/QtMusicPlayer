@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Img/icon/default_User.png</file>
+        <file>Img/icon/doge.png</file>
+        <file>Img/icon/download.png</file>
+        <file>Img/icon/collect_1.png</file>
+        <file>Img/icon/collect_2.png</file>
+        <file>Img/icon/lock.png</file>
+        <file>Img/icon/next.png</file>
+        <file>Img/icon/order_circle.png</file>
+        <file>Img/icon/order_list.png</file>
+        <file>Img/icon/order_one.png</file>
+        <file>Img/icon/order_random.png</file>
+        <file>Img/icon/pause.png</file>
+        <file>Img/icon/play.png</file>
+        <file>Img/icon/post_default.png</file>
+        <file>Img/icon/prev.png</file>
+        <file>Img/icon/pwd_eye.png</file>
+        <file>Img/icon/qq.png</file>
+        <file>Img/icon/show.png</file>
+        <file>Img/icon/unlock.png</file>
+        <file>Style/default.qss</file>
+        <file>Style/AMOLED.qss</file>
+        <file>Style/Aqua.qss</file>
+        <file>Style/ConsoleStyle.qss</file>
+        <file>Style/ElegantDark.qss</file>
+        <file>Style/MacOS.qss</file>
+        <file>Style/ManjaroMix.qss</file>
+        <file>Style/MaterialDark.qss</file>
+        <file>Style/NeonButtons.qss</file>
+        <file>Style/Ubuntu.qss</file>
+        <file>Style/untitled1.qss</file>
+        <file>Img/icon/like_1.png</file>
+        <file>Img/icon/like_2.png</file>
+        <file>Img/icon/yes.png</file>
+        <file>Img/icon/localFold.png</file>
+    </qresource>
+</RCC>
